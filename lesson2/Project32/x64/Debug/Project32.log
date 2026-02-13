@@ -1,0 +1,6 @@
+﻿  C++ Flie.cpp
+C:\Users\fudda\source\repos\Project32\Project32\C++ Flie.cpp(23,1): warning C4566: character represented by universal-character-name '\u0643' cannot be represented in the current code page (1252)
+C:\Users\fudda\source\repos\Project32\Project32\C++ Flie.cpp(23,1): warning C4566: character represented by universal-character-name '\u062D' cannot be represented in the current code page (1252)
+C:\Users\fudda\source\repos\Project32\Project32\C++ Flie.cpp(23,1): warning C4566: character represented by universal-character-name '\u0644' cannot be represented in the current code page (1252)
+C:\Users\fudda\source\repos\Project32\Project32\C++ Flie.cpp(23,1): warning C4566: character represented by universal-character-name '\u064A' cannot be represented in the current code page (1252)
+  Project32.vcxproj -> C:\Users\fudda\source\repos\Project32\x64\Debug\Project32.exe
